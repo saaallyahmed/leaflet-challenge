@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Leaflet Homework: Visualizing Data with Leaflet
 
 ## Background
@@ -80,3 +81,7 @@ Your final product will be assessed according to [this grading rubric](Leaflet_G
 
 ___
 © 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
+=======
+# leaflet-challenge
+Geo mapping Visualization  
+>>>>>>> 20369e9018281132c1f49d610945535fee9fdb00
